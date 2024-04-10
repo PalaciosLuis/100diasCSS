@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Catamaran", sans-serif;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(45deg, #3B4CA6, #3b4da6, #00AAC3, #00AAC3);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cien {
+    margin-right: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+.one {
+    z-index: 2;
+    text-shadow: rgba(0, 0, 0, 0.299) 1px 1px;
+
+    width: 60px;
+}
+
+span {
+    text-shadow: black 1px 1px;
+    width: 120px;
+    color: white;
+    font-size: 250px;
+    font-weight: 700;
+
+}
+
+p {
+    text-transform: uppercase;
+}
+
+.days {
+    height: 130px;
+    color: white;
+    font-size: 120px;
+    font-weight: 600;
+}
+
+.challenge {
+    color: white;
+    font-size: 38px;
+    font-weight: 600;
+}
