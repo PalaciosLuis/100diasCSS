@@ -15,8 +15,8 @@ Galerías de imágenes
 Formularios interactivos
 Efectos de animación CSS
 Diseños responsivos
-Y mucho más
-Cómo usar este repositorio 🛠️
+Y mucho más. <br />
+<h2>Cómo usar este repositorio 🛠️</h2>
 Explora los proyectos: Puedes navegar por los diferentes proyectos en la lista de archivos o en las carpetas específicas de cada día.
 Descarga el código: Si encuentras algún proyecto interesante, puedes descargar el código fuente y utilizarlo como referencia o como base para tus propios proyectos.
 Contribuye: ¡Siéntete libre de contribuir! Si tienes ideas para nuevos proyectos o mejoras para los existentes, puedes abrir un problema o enviar una solicitud de extracción.<br/>
